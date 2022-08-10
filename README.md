@@ -12,7 +12,7 @@
 
 <h3 align="center">A bit about me </h3>
 
-
+If I had to choose one word to describe myself it would be "Creator". I enjoy making things, whether this is an app utilizing a newly learned technology, a new bed platform for my campervan, a company with a new hammock design, or just making some sourdough, I thrive on pushing my limits. This drive has helped me utilize the soft skills learned from being a small business owner, lead carpenter, gym manager, and traveler in my newfound passion, Software Engineer. 
 
 <hr>
 
@@ -20,7 +20,7 @@
 
 - 🌱 I’m currently learning **Python and Django**
 
-- 🎉 I am a recent graduate from [Turing School of SOftware and Design](https://terminal.turing.edu/alumni/1292-reuben-davison)
+- 🎉 I am a recent graduate from [Turing School of Software and Design](https://terminal.turing.edu/alumni/1292-reuben-davison)
 
 - 💬 Ask me about **Ruby on Rails**
 
