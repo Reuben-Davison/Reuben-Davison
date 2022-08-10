@@ -9,7 +9,12 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reuben-davison" alt="reuben-davison" /></a> </p>
 
 <hr>
-<br>
+
+<h3 align="center">A bit about me </h3>
+
+
+
+<hr>
 
 - 🔭 I’m currently working on and looking for help with [company_finder](https://github.com/Reuben-Davison/company_finder) A passion project to help Turing graduates find and filter through companies that have hired other graduates
 
