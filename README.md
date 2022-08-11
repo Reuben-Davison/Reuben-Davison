@@ -16,7 +16,7 @@ If I had to choose one word to describe myself it would be "Creator". I enjoy ma
 
 <hr>
 
-- 🔭 I’m currently working on and looking for help with [company_finder](https://github.com/Reuben-Davison/company_finder) A passion project to help Turing graduates find and filter through companies that have hired other graduates
+- 🔭 I’m currently building and looking for collaborators with [<b> Company Finder </b>](https://github.com/Reuben-Davison/company_finder) A passion project to help Turing graduates find and filter through companies that have hired other graduates
 
 - 🌱 I’m currently learning **Python and Django**
 
