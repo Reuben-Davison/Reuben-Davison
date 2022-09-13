@@ -14,6 +14,8 @@
 
 If I had to choose one word to describe myself it would be "Creator". I enjoy making things, whether this is an app utilizing a newly learned technology, a new bed platform for my campervan, a company with a new hammock design, or just making some sourdough, I thrive on pushing my limits. This drive has helped me utilize the soft skills learned from being a small business owner, lead carpenter, gym manager, and traveler in my newfound passion, Software Engineer. 
 
+Please excuse the lack of commits as I spend my time focusing on the job hunt process and start familiarizing myself with AWS service and practice for the AWS cloud practioneer test. 
+
 <hr>
 
 - 🔭 I’m currently building and looking for collaborators with [<b> Company Finder </b>](https://github.com/Reuben-Davison/company_finder) A passion project to help Turing graduates find and filter through companies that have hired other graduates
