@@ -1,5 +1,5 @@
 <h1 align="center">Hello world 👋 My name is Reuben Davison</h1>
-<h3 align="center">Backend Software Engineer </h3>
+<h3 align="center">Software Engineer </h3>
 <h4 align="center"> "This is the dev you've been looking for" - Obi Wan 🧔🏽‍♂️</h4>
 
 <hr>
