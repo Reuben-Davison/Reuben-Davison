@@ -18,9 +18,9 @@ Please excuse the lack of commits as I spend my time focusing on the job hunt pr
 
 <hr>
 
-- 🔭 I’m currently building and looking for collaborators with [<b> Company Finder </b>](https://github.com/Reuben-Davison/company_finder) A passion project to help Turing graduates find and filter through companies that have hired other graduates
+- 🔭 I’m currently building and looking for collaborators with [<b> Hire Me </b>](https://github.com/Reuben-Davison/hire_me) A passion project to help Turing graduates find and filter through companies that have hired other graduates
 
-- 🌱 I’m currently learning **Python and Django**
+- 🌱 I’m currently learning **TailwindCss and Hotwire**
 
 - 🎉 I am a recent graduate from [Turing School of Software and Design](https://terminal.turing.edu/alumni/1292-reuben-davison)
 
